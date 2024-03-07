@@ -17,3 +17,9 @@
 ## 삭제
 1. sudo chmod +755 reset.sh
 2. calico network interface 삭제
+
+## 참고 자료
+- [How to Install Kubernetes on Ubuntu 22.04](https://phoenixnap.com/kb/install-kubernetes-on-ubuntu)
+- [How do I find the join command for kubeadm on the master?](https://stackoverflow.com/questions/51126164/how-do-i-find-the-join-command-for-kubeadm-on-the-master)
+- [Creating a cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
+- [Intall Calico](https://docs.tigera.io/calico/latest/getting-started/kubernetes/quickstart)
