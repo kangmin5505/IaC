@@ -13,3 +13,7 @@
 1. vim install_k8s.sh
 2. sudo chmod +755 install_k8s.sh
 3. ./install_k8s.sh [control|worker] NETWORK_CIDR(if control)
+
+## 삭제
+1. sudo chmod +755 reset.sh
+2. calico network interface 삭제
